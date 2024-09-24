@@ -16,11 +16,11 @@ Install following requirements:
 
 ## How to Run the Tests
 
-1. **Navigate to the Project Directory**
+- Navigate to the Project Directory__
    cd <project-directory>
-2. **Install Dependencies**
+- **Install Dependencies__
    npm install
-3. **Run the tests In the terminal**
+- **Run the tests In the terminal__
    npm run wdio
-4. **Open allure report**
+- **Open allure report__
    npm run allure-report
